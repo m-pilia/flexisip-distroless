@@ -1,6 +1,6 @@
 # Distroless flexisip-proxy Docker image
 
-[![CI](https://github.com/m-pilia/flexisip-distroless/actions/workflows/ci.yml/badge.svg)](https://github.com/m-pilia/flexisip-distroless/actions/workflows/ci.yml)
+[![CI](https://github.com/m-pilia/flexisip-distroless/actions/workflows/ci.yaml/badge.svg)](https://github.com/m-pilia/flexisip-distroless/actions/workflows/ci.yaml)
 
 A Docker image to run Flexisip focused on security and minimal footprint.
 
